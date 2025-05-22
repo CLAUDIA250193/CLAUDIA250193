@@ -8,7 +8,12 @@
 
 <!---
 
-
+meu_projeto_ia/
+├── app.py
+├── modelo_sentimento_imdb.h5
+├── requirements.txt
+├── templates/
+│   └── index.html
 
 
 
